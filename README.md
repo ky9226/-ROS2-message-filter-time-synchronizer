@@ -12,4 +12,4 @@ $ ros2 run msg_sync msg_sync\
 $ ros2 topic hz /msg_1\
 $ ros2 topic echo /msg_1\
 $ ros2 topic hz /msg_2\
-$ ros2 topic echo /msg_2\
+$ ros2 topic echo /msg_2
